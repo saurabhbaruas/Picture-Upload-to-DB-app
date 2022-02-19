@@ -1,0 +1,9 @@
+C:\Users\saurabh\source\repos\Picture_Upload_to DB\Picture_Upload_to DB\obj\Debug\Picture_Upload_to DB.csprojResolveAssemblyReference.cache
+C:\Users\saurabh\source\repos\Picture_Upload_to DB\Picture_Upload_to DB\obj\Debug\Picture_Upload_to_DB.Form1.resources
+C:\Users\saurabh\source\repos\Picture_Upload_to DB\Picture_Upload_to DB\obj\Debug\Picture_Upload_to_DB.Properties.Resources.resources
+C:\Users\saurabh\source\repos\Picture_Upload_to DB\Picture_Upload_to DB\obj\Debug\Picture_Upload_to DB.csproj.GenerateResource.Cache
+C:\Users\saurabh\source\repos\Picture_Upload_to DB\Picture_Upload_to DB\bin\Debug\Picture_Upload_to DB.exe.config
+C:\Users\saurabh\source\repos\Picture_Upload_to DB\Picture_Upload_to DB\bin\Debug\Picture_Upload_to DB.exe
+C:\Users\saurabh\source\repos\Picture_Upload_to DB\Picture_Upload_to DB\bin\Debug\Picture_Upload_to DB.pdb
+C:\Users\saurabh\source\repos\Picture_Upload_to DB\Picture_Upload_to DB\obj\Debug\Picture_Upload_to DB.exe
+C:\Users\saurabh\source\repos\Picture_Upload_to DB\Picture_Upload_to DB\obj\Debug\Picture_Upload_to DB.pdb
